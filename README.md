@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![Jorges's GitHub stats](https://github-readme-stats.vercel.app/api?username=jomach)](https://github.com/jomach/github-readme-stats)
 <!--
 **jomach/jomach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
